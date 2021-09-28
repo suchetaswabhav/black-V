@@ -1,5 +1,29 @@
 # black-V
 Assignment code
+ 
+ Procedure -_
+_ Terminal code_
+ **Installation** -
+ 
+ 
+ >>npm i 
+ >>npm i express
+ >>npm i cors
+ >>npm i body-parser
+ >>npm i restify
+ >>npm i https
+
+
+**To run the code **
+
+
+>>node assignmentcode.js
+
+
+
+
+
+
 #  Black & Veatch Coding Challenge
 
 ## Requirements
