@@ -6,18 +6,18 @@ _ Terminal code_
  **Installation** -
  
  
- >>npm i 
+ [>>npm i 
  >>npm i express
  >>npm i cors
  >>npm i body-parser
  >>npm i restify
- >>npm i https
+ >>npm i https](url)
 
 
 **To run the code **
 
 
->>node assignmentcode.js
+     >>node assignmentcode.js
 
 
 
